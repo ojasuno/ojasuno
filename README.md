@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ojasuno
-- 👀 I’m interested in Web3 ...
-- 🌱 I’m currently learning Transhumanism ...
-- 💞️ I’m building NetworkState ...
-- 📫 How to reach me ...
+👾 am @ojas
+🐉 interested in Web3
+🧠 learning TransHumanism
+🦀 building NetworkState
+🛸 teleport into MilkyWay
 
 <!---
 ojasuno/ojasuno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
