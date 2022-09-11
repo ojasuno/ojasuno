@@ -12,10 +12,6 @@
 
 ---
 
-![◎jas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ojasuno&show_icons=true&theme=highcontrast)
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasuno&langs_count=8&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
