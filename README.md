@@ -4,7 +4,7 @@
 - 🐉 interested in Web3
 - 🧠 learning TransHumanism
 - 🦀 building NetworkState
-- 🛸 teleport into MilkyWay
+- 🛸 teleport into TPL
 
 ---
 
