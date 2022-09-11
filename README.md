@@ -6,7 +6,11 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojasuno&show_icons=true&theme=radical)
+![◎jas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ojasuno&show_icons=true&theme=radical)
+
+---
+
+![◎jas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ojasuno&show_icons=true&theme=highcontrast)
 
 ---
 
