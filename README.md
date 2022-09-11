@@ -16,7 +16,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasuno&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 
 ---
 
