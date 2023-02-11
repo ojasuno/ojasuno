@@ -1,6 +1,6 @@
 ---
 
-- 👾 am ◎jas
+- 👾 am ojas
 - 🐉 interested in Web3
 - 🧠 learning TransHumanism
 - 🦀 building NetworkState
